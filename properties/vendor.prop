@@ -165,6 +165,9 @@ ro.telephony.default_network=26,26
 # RCS
 persist.vendor.rcs.singlereg.feature=1
 
+# Security patch
+ro.vendor.kernel.security_patch=2026-07-05
+
 # Sensors
 persist.vendor.sensors.enable.mag_filter=true
 persist.vendor.sensors.support_direct_channel=false
