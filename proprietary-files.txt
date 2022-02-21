@@ -55,6 +55,9 @@ vendor/lib/rfsa/adsp/libmlawbpostproc_dsp_skel.so
 # ANT+
 vendor/lib64/hw/com.dsi.ant@1.0-impl.so
 
+# APN list
+product/etc/apns-conf.xml
+
 # Audio
 vendor/etc/models/acd/environment.eai
 vendor/etc/models/acd/event.eai
