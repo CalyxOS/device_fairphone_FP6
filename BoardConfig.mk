@@ -201,6 +201,9 @@ ENABLE_VENDOR_RIL_SERVICE := true
 BOOT_SECURITY_PATCH := 2026-06-05
 VENDOR_SECURITY_PATCH := $(BOOT_SECURITY_PATCH)
 
+# Calyx
+PLATFORM_SECURITY_PATCH := $(VENDOR_SECURITY_PATCH)
+
 # Sepolicy
 include device/lineage/sepolicy/libperfmgr/sepolicy.mk
 include device/qcom/sepolicy_vndr/SEPolicy.mk
