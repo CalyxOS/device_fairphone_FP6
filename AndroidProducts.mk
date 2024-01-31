@@ -4,6 +4,7 @@
 #
 
 PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/calyx_FP6.mk \
     $(LOCAL_DIR)/lineage_FP6.mk
 
 COMMON_LUNCH_CHOICES := \
