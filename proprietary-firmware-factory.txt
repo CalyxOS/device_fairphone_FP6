@@ -1,0 +1,7 @@
+# Firmware from the release mentioned in proprietary-firmware.txt
+
+frp_for_factory.img:frp.img
+logfs_ufs_8mb.bin:logfs.img
+storsec.mbn:storsec.img
+study.img
+tools.fv:toolsfv.img
