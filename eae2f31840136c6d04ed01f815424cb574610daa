@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "442bcfeb_7be5a7dd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2026-09-29T23:32:10Z",
+      "side": 1,
+      "message": "This is not merged yet upstream so leaving it open. It will be included in the tag for now.",
+      "revId": "eae2f31840136c6d04ed01f815424cb574610daa",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
